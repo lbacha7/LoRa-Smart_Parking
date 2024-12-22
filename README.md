@@ -18,4 +18,9 @@
  touch. This project would allow users to know beforehand how full a parking lot is which is
  especially useful in urban areas. 
 
- ![plot]((https://github.com/lbacha7/LoRa-Smart_Parking/blob/main/parking.png))
+  <img src="https://raw.githubusercontent.com/lbacha7/LoRa-Smart_Parking/main/parking.png" alt="Parking Diagram" height="500" width="700" />
+
+# To Run:
+ In one terminal move to the directory the project is located and run the interface by entering the
+ command node mqtt.js (note: npm for Node js must first be installed on the computer). Next,
+ have the things network running and run the LoraWAN program.
