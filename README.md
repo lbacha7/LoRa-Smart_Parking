@@ -18,4 +18,4 @@
  touch. This project would allow users to know beforehand how full a parking lot is which is
  especially useful in urban areas. 
 
- 
+ ![plot]((https://github.com/lbacha7/LoRa-Smart_Parking/blob/main/parking.png))
