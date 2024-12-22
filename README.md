@@ -1,2 +1,2 @@
-# LoRa-Smart_Parking
+# LoRa Smart Parking Sensor
 Touch sensor-based parking identifier
